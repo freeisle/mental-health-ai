@@ -1,0 +1,22 @@
+# Java / Spring Boot
+ai-springboot/target/
+ai-springboot/.idea/
+ai-springboot/.mvn/wrapper/maven-wrapper.jar
+
+# Node / Vue
+ai-vue/node_modules/
+ai-vue/dist/
+ai-vue/.vite/
+
+# IDE and OS files
+.idea/
+.vscode/
+*.iml
+.DS_Store
+Thumbs.db
+
+# Local environment and logs
+*.local
+*.log
+*.env
+!.env.example
